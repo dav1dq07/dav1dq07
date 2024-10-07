@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dav1dq07
 - 👀 I’m interested in coding and playing football.
-- 🌱 I’m currently learning C#, C and JavaScript.
+- 🌱 I’m currently learning C#, C, HTML, CSS and JavaScript.
 - 📫 How to reach me d.purcaru@students.htl-leonding.ac.at
 
 <!---
